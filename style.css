@@ -1,0 +1,31 @@
+
+body {
+    background: rgb(0, 0, 250);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+header {
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.473);
+}
+footer{
+    text-align: center;
+    color: white;
+}
+.res_box {
+    text-align: center;
+} 
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
